@@ -34,3 +34,4 @@ C:\Users\soldi\source\repos\MyWebAPI\MyWebAPI\obj\Debug\net6.0\refint\MyWebAPI.d
 C:\Users\soldi\source\repos\MyWebAPI\MyWebAPI\obj\Debug\net6.0\MyWebAPI.pdb
 C:\Users\soldi\source\repos\MyWebAPI\MyWebAPI\obj\Debug\net6.0\MyWebAPI.genruntimeconfig.cache
 C:\Users\soldi\source\repos\MyWebAPI\MyWebAPI\obj\Debug\net6.0\ref\MyWebAPI.dll
+C:\Users\soldi\source\repos\MyWebAPI\MyWebAPI\obj\Debug\net6.0\MyWebAPI.sourcelink.json

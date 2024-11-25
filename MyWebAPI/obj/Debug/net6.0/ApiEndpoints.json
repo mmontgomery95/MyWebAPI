@@ -1,5 +1,15 @@
 [
   {
+    "ContainingType": "MyWebAPI.Controllers.NameController",
+    "Method": "GetName",
+    "RelativePath": "api/Name",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "MyWebAPI.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

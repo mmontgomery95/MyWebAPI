@@ -5,6 +5,18 @@
     "version": "1.0"
   },
   "paths": {
+    "/api/Name": {
+      "get": {
+        "tags": [
+          "Name"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
     "/WeatherForecast": {
       "get": {
         "tags": [
